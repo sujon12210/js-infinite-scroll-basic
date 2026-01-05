@@ -1,0 +1,16 @@
+body{
+  font-family:Arial;
+  margin:0;
+  background:#f8fafc;
+}
+
+.container{
+  padding:20px;
+}
+
+.item{
+  background:white;
+  padding:15px;
+  margin-bottom:10px;
+  border-radius:6px;
+}
